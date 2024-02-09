@@ -1,0 +1,202 @@
+2024-02-07 15:54:30,546 : INFO : Test_Login : test_verify_url_001 : 16 : Test_Case test_verify_url_001 is started 
+2024-02-07 15:54:30,548 : INFO : Test_Login : test_verify_url_001 : 18 : opening browser and nevigating to demo_nop_com 
+2024-02-07 15:54:30,565 : INFO : Test_Login : test_verify_url_001 : 19 : page title is-->Your store. Login 
+2024-02-07 15:54:30,582 : INFO : Test_Login : test_verify_url_001 : 22 : Test_Case test_verify_url_001 is passed 
+2024-02-07 15:54:30,583 : INFO : Test_Login : test_verify_url_001 : 23 : Taking Screenshot 
+2024-02-07 15:54:30,689 : INFO : Test_Login : test_user_login_002 : 34 : Test_case test_user_login_002 is started 
+2024-02-07 15:54:30,690 : INFO : Test_Login : test_user_login_002 : 36 : opening browser and nevigating to demo_nop_com 
+2024-02-07 15:54:30,691 : INFO : Test_Login : test_user_login_002 : 38 : Entering email-admin@yourstore.com 
+2024-02-07 15:54:30,784 : INFO : Test_Login : test_verify_url_001 : 31 : Test_case test_verify_url_001 is completed 
+2024-02-07 15:54:30,947 : INFO : Test_Login : test_user_login_002 : 40 : Entering password-admin 
+2024-02-07 15:54:31,163 : INFO : Test_Login : test_user_login_002 : 42 : Click on login button 
+2024-02-07 15:54:33,300 : INFO : Test_Login : test_user_login_002 : 45 : Test_Case test_user_login_002 is passes 
+2024-02-07 15:54:33,300 : INFO : Test_Login : test_user_login_002 : 46 : Taking screenshot 
+2024-02-07 15:54:33,466 : INFO : Test_Login : test_user_login_002 : 48 : click on logout button 
+2024-02-07 15:54:35,052 : INFO : Test_Login : test_user_login_002 : 56 : Test_Case test_user_login_002 is completed 
+2024-02-07 20:43:56,794 : INFO : Test_Add_Customer : test_addCustomer_003 : 26 : Test_case test_addCustomer_003 is started 
+2024-02-07 20:43:56,795 : INFO : Test_Add_Customer : test_addCustomer_003 : 28 : Opening browser and navigating to demo_nop_com 
+2024-02-07 20:43:56,796 : INFO : Test_Add_Customer : test_addCustomer_003 : 30 : Entering email - admin@yourstore.com 
+2024-02-07 20:43:57,065 : INFO : Test_Add_Customer : test_addCustomer_003 : 32 : Entering Password - admin 
+2024-02-07 20:43:57,335 : INFO : Test_Add_Customer : test_addCustomer_003 : 34 : Click on login button 
+2024-02-07 20:43:58,674 : INFO : Test_Add_Customer : test_addCustomer_003 : 37 : Click on Customer Menu 
+2024-02-07 20:44:00,305 : INFO : Test_Add_Customer : test_addCustomer_003 : 39 : Click on Customer Sub Menu 
+2024-02-07 20:44:01,127 : INFO : Test_Add_Customer : test_addCustomer_003 : 41 : Click on Add Customer 
+2024-02-07 20:44:02,269 : INFO : Test_Add_Customer : test_addCustomer_003 : 44 : Email-->nwsx@gmail.com 
+2024-02-07 20:44:02,269 : INFO : Test_Add_Customer : test_addCustomer_003 : 45 : Enter Email 
+2024-02-07 20:44:02,500 : INFO : Test_Add_Customer : test_addCustomer_003 : 47 : Enter Password 
+2024-02-07 20:44:03,196 : INFO : Test_Add_Customer : test_addCustomer_003 : 49 : Enter First Name 
+2024-02-07 20:44:03,357 : INFO : Test_Add_Customer : test_addCustomer_003 : 51 : Enter Last Name 
+2024-02-07 20:44:03,510 : INFO : Test_Add_Customer : test_addCustomer_003 : 53 : Select Gender 
+2024-02-07 20:44:03,617 : INFO : Test_Add_Customer : test_addCustomer_003 : 55 : Enter Date Of Birth 
+2024-02-07 20:44:03,793 : INFO : Test_Add_Customer : test_addCustomer_003 : 57 : Enter Company Name 
+2024-02-07 20:44:03,963 : INFO : Test_Add_Customer : test_addCustomer_003 : 59 : Click on is tax exempt CheckBox 
+2024-02-07 20:44:04,056 : INFO : Test_Add_Customer : test_addCustomer_003 : 61 : Click on NewsLetter 
+2024-02-07 20:44:04,193 : INFO : Test_Add_Customer : test_addCustomer_003 : 63 : Click on NewsLetter List 
+2024-02-07 20:44:04,305 : INFO : Test_Add_Customer : test_addCustomer_003 : 65 : Select Value for Manager of vendor 
+2024-02-07 20:44:04,487 : INFO : Test_Add_Customer : test_addCustomer_003 : 67 : Click on Active Checkbox 
+2024-02-07 20:44:04,599 : INFO : Test_Add_Customer : test_addCustomer_003 : 69 : Enter Comment 
+2024-02-07 20:44:04,783 : INFO : Test_Add_Customer : test_addCustomer_003 : 71 : Click Save Button 
+2024-02-07 20:44:05,753 : INFO : Test_Add_Customer : test_addCustomer_003 : 75 : Test_case test_addCustomer_003 is passed 
+2024-02-08 12:42:26,290 : INFO : Test_Add_Customer : test_addCustomer_003 : 26 : Test_case test_addCustomer_003 is started 
+2024-02-08 12:42:26,291 : INFO : Test_Add_Customer : test_addCustomer_003 : 28 : Opening browser and navigating to demo_nop_com 
+2024-02-08 12:42:26,292 : INFO : Test_Add_Customer : test_addCustomer_003 : 30 : Entering email - admin@yourstore.com 
+2024-02-08 12:42:26,544 : INFO : Test_Add_Customer : test_addCustomer_003 : 32 : Entering Password - admin 
+2024-02-08 12:42:26,799 : INFO : Test_Add_Customer : test_addCustomer_003 : 34 : Click on login button 
+2024-02-08 12:42:28,249 : INFO : Test_Add_Customer : test_addCustomer_003 : 37 : Click on Customer Menu 
+2024-02-08 12:42:29,906 : INFO : Test_Add_Customer : test_addCustomer_003 : 39 : Click on Customer Sub Menu 
+2024-02-08 12:42:30,730 : INFO : Test_Add_Customer : test_addCustomer_003 : 41 : Click on Add Customer 
+2024-02-08 12:42:31,991 : INFO : Test_Add_Customer : test_addCustomer_003 : 44 : Email-->bkwk@ymail.com 
+2024-02-08 12:42:31,991 : INFO : Test_Add_Customer : test_addCustomer_003 : 45 : Enter Email 
+2024-02-08 12:42:32,069 : INFO : Test_Add_Customer : test_addCustomer_003 : 47 : Enter Password 
+2024-02-08 12:42:32,928 : INFO : Test_Add_Customer : test_addCustomer_003 : 49 : Enter First Name 
+2024-02-08 12:42:33,073 : INFO : Test_Add_Customer : test_addCustomer_003 : 51 : Enter Last Name 
+2024-02-08 12:42:33,233 : INFO : Test_Add_Customer : test_addCustomer_003 : 53 : Select Gender 
+2024-02-08 12:42:33,370 : INFO : Test_Add_Customer : test_addCustomer_003 : 55 : Enter Date Of Birth 
+2024-02-08 12:42:33,542 : INFO : Test_Add_Customer : test_addCustomer_003 : 57 : Enter Company Name 
+2024-02-08 12:42:33,671 : INFO : Test_Add_Customer : test_addCustomer_003 : 59 : Click on is tax exempt CheckBox 
+2024-02-08 12:42:33,761 : INFO : Test_Add_Customer : test_addCustomer_003 : 61 : Click on NewsLetter 
+2024-02-08 12:42:33,868 : INFO : Test_Add_Customer : test_addCustomer_003 : 63 : Click on NewsLetter List 
+2024-02-08 12:42:38,561 : INFO : Test_Login : test_verify_url_001 : 16 : Test_Case test_verify_url_001 is started 
+2024-02-08 12:42:38,561 : INFO : Test_Login : test_verify_url_001 : 18 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:42:38,575 : INFO : Test_Login : test_verify_url_001 : 19 : page title is-->Your store. Login 
+2024-02-08 12:42:38,583 : INFO : Test_Login : test_verify_url_001 : 22 : Test_Case test_verify_url_001 is passed 
+2024-02-08 12:42:38,583 : INFO : Test_Login : test_verify_url_001 : 23 : Taking Screenshot 
+2024-02-08 12:42:38,718 : INFO : Test_Login : test_verify_url_001 : 31 : Test_case test_verify_url_001 is completed 
+2024-02-08 12:42:42,182 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 12:42:42,182 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:42:42,182 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 12:42:42,449 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 12:42:42,686 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 12:42:45,311 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 12:42:45,311 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 12:42:45,406 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 12:42:46,794 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 12:46:19,713 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 12:46:19,714 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:46:19,715 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 12:46:19,975 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 12:46:20,110 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 12:46:22,697 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 12:46:22,697 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 12:46:22,878 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 12:46:24,234 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 12:48:54,508 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 12:48:54,508 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:48:54,508 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 12:48:54,731 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 12:48:54,793 : INFO : Test_Login : test_verify_url_001 : 16 : Test_Case test_verify_url_001 is started 
+2024-02-08 12:48:54,793 : INFO : Test_Login : test_verify_url_001 : 18 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:48:54,818 : INFO : Test_Login : test_verify_url_001 : 19 : page title is-->Your store. Login 
+2024-02-08 12:48:54,826 : INFO : Test_Login : test_verify_url_001 : 22 : Test_Case test_verify_url_001 is passed 
+2024-02-08 12:48:54,826 : INFO : Test_Login : test_verify_url_001 : 23 : Taking Screenshot 
+2024-02-08 12:48:54,917 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 12:48:54,975 : INFO : Test_Login : test_verify_url_001 : 31 : Test_case test_verify_url_001 is completed 
+2024-02-08 12:48:57,928 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 12:48:57,928 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 12:48:58,065 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 12:48:59,570 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 12:53:08,119 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 12:53:08,119 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:53:08,119 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 12:53:08,375 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 12:53:08,391 : INFO : Test_Login : test_verify_url_001 : 16 : Test_Case test_verify_url_001 is started 
+2024-02-08 12:53:08,391 : INFO : Test_Login : test_verify_url_001 : 18 : opening browser and nevigating to demo_nop_com 
+2024-02-08 12:53:08,415 : INFO : Test_Login : test_verify_url_001 : 19 : page title is-->Your store. Login 
+2024-02-08 12:53:08,424 : INFO : Test_Login : test_verify_url_001 : 22 : Test_Case test_verify_url_001 is passed 
+2024-02-08 12:53:08,424 : INFO : Test_Login : test_verify_url_001 : 23 : Taking Screenshot 
+2024-02-08 12:53:08,498 : INFO : Test_Login : test_verify_url_001 : 31 : Test_case test_verify_url_001 is completed 
+2024-02-08 12:53:08,588 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 12:53:10,677 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 12:53:10,677 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 12:53:10,801 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 12:53:12,364 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 13:08:25,258 : INFO : Test_Add_Customer : test_addCustomer_003 : 26 : Test_case test_addCustomer_003 is started 
+2024-02-08 13:08:25,259 : INFO : Test_Add_Customer : test_addCustomer_003 : 28 : Opening browser and navigating to demo_nop_com 
+2024-02-08 13:08:25,259 : INFO : Test_Add_Customer : test_addCustomer_003 : 30 : Entering email - admin@yourstore.com 
+2024-02-08 13:08:25,799 : INFO : Test_Add_Customer : test_addCustomer_003 : 32 : Entering Password - admin 
+2024-02-08 13:08:26,008 : INFO : Test_Add_Customer : test_addCustomer_003 : 34 : Click on login button 
+2024-02-08 13:08:27,262 : INFO : Test_Add_Customer : test_addCustomer_003 : 37 : Click on Customer Menu 
+2024-02-08 13:08:28,862 : INFO : Test_Add_Customer : test_addCustomer_003 : 39 : Click on Customer Sub Menu 
+2024-02-08 13:08:29,632 : INFO : Test_Add_Customer : test_addCustomer_003 : 41 : Click on Add Customer 
+2024-02-08 13:08:30,812 : INFO : Test_Add_Customer : test_addCustomer_003 : 44 : Email-->epbs@gmail.com 
+2024-02-08 13:08:30,813 : INFO : Test_Add_Customer : test_addCustomer_003 : 45 : Enter Email 
+2024-02-08 13:08:31,578 : INFO : Test_Add_Customer : test_addCustomer_003 : 47 : Enter Password 
+2024-02-08 13:08:31,744 : INFO : Test_Add_Customer : test_addCustomer_003 : 49 : Enter First Name 
+2024-02-08 13:08:31,872 : INFO : Test_Add_Customer : test_addCustomer_003 : 51 : Enter Last Name 
+2024-02-08 13:08:32,016 : INFO : Test_Add_Customer : test_addCustomer_003 : 53 : Select Gender 
+2024-02-08 13:08:32,127 : INFO : Test_Add_Customer : test_addCustomer_003 : 55 : Enter Date Of Birth 
+2024-02-08 13:08:32,316 : INFO : Test_Add_Customer : test_addCustomer_003 : 57 : Enter Company Name 
+2024-02-08 13:08:32,503 : INFO : Test_Add_Customer : test_addCustomer_003 : 59 : Click on is tax exempt CheckBox 
+2024-02-08 13:08:32,618 : INFO : Test_Add_Customer : test_addCustomer_003 : 61 : Click on NewsLetter 
+2024-02-08 13:08:32,740 : INFO : Test_Add_Customer : test_addCustomer_003 : 63 : Click on NewsLetter List 
+2024-02-08 13:08:32,827 : INFO : Test_Add_Customer : test_addCustomer_003 : 65 : Select Value for Manager of vendor 
+2024-02-08 13:08:32,986 : INFO : Test_Add_Customer : test_addCustomer_003 : 67 : Click on Active Checkbox 
+2024-02-08 13:08:33,074 : INFO : Test_Add_Customer : test_addCustomer_003 : 69 : Enter Comment 
+2024-02-08 13:08:33,247 : INFO : Test_Add_Customer : test_addCustomer_003 : 71 : Click Save Button 
+2024-02-08 13:08:34,366 : INFO : Test_Add_Customer : test_addCustomer_003 : 75 : Test_case test_addCustomer_003 is passed 
+2024-02-08 13:11:59,549 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 13:11:59,549 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 13:11:59,549 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 13:11:59,967 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 13:12:00,259 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 13:12:00,846 : INFO : Test_Add_Customer : test_addCustomer_003 : 26 : Test_case test_addCustomer_003 is started 
+2024-02-08 13:12:00,846 : INFO : Test_Add_Customer : test_addCustomer_003 : 28 : Opening browser and navigating to demo_nop_com 
+2024-02-08 13:12:00,846 : INFO : Test_Add_Customer : test_addCustomer_003 : 30 : Entering email - admin@yourstore.com 
+2024-02-08 13:12:01,064 : INFO : Test_Add_Customer : test_addCustomer_003 : 32 : Entering Password - admin 
+2024-02-08 13:12:01,337 : INFO : Test_Add_Customer : test_addCustomer_003 : 34 : Click on login button 
+2024-02-08 13:12:03,013 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 13:12:03,013 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 13:12:03,204 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 13:12:03,228 : INFO : Test_Add_Customer : test_addCustomer_003 : 37 : Click on Customer Menu 
+2024-02-08 13:12:04,843 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 13:12:05,025 : INFO : Test_Add_Customer : test_addCustomer_003 : 39 : Click on Customer Sub Menu 
+2024-02-08 13:12:06,029 : INFO : Test_Add_Customer : test_addCustomer_003 : 41 : Click on Add Customer 
+2024-02-08 13:12:07,376 : INFO : Test_Add_Customer : test_addCustomer_003 : 44 : Email-->dztx@outlook.com 
+2024-02-08 13:12:07,376 : INFO : Test_Add_Customer : test_addCustomer_003 : 45 : Enter Email 
+2024-02-08 13:12:07,466 : INFO : Test_Add_Customer : test_addCustomer_003 : 47 : Enter Password 
+2024-02-08 13:12:08,302 : INFO : Test_Add_Customer : test_addCustomer_003 : 49 : Enter First Name 
+2024-02-08 13:12:08,408 : INFO : Test_Add_Customer : test_addCustomer_003 : 51 : Enter Last Name 
+2024-02-08 13:12:08,545 : INFO : Test_Add_Customer : test_addCustomer_003 : 53 : Select Gender 
+2024-02-08 13:12:08,672 : INFO : Test_Add_Customer : test_addCustomer_003 : 55 : Enter Date Of Birth 
+2024-02-08 13:12:08,821 : INFO : Test_Add_Customer : test_addCustomer_003 : 57 : Enter Company Name 
+2024-02-08 13:12:08,959 : INFO : Test_Add_Customer : test_addCustomer_003 : 59 : Click on is tax exempt CheckBox 
+2024-02-08 13:12:09,066 : INFO : Test_Add_Customer : test_addCustomer_003 : 61 : Click on NewsLetter 
+2024-02-08 13:12:09,221 : INFO : Test_Add_Customer : test_addCustomer_003 : 63 : Click on NewsLetter List 
+2024-02-08 13:12:09,320 : INFO : Test_Add_Customer : test_addCustomer_003 : 65 : Select Value for Manager of vendor 
+2024-02-08 13:12:09,465 : INFO : Test_Add_Customer : test_addCustomer_003 : 67 : Click on Active Checkbox 
+2024-02-08 13:12:09,615 : INFO : Test_Add_Customer : test_addCustomer_003 : 69 : Enter Comment 
+2024-02-08 13:12:09,788 : INFO : Test_Add_Customer : test_addCustomer_003 : 71 : Click Save Button 
+2024-02-08 13:12:10,933 : INFO : Test_Add_Customer : test_addCustomer_003 : 75 : Test_case test_addCustomer_003 is passed 
+2024-02-08 13:22:09,002 : INFO : Test_Login : test_user_login_002 : 35 : Test_case test_user_login_002 is started 
+2024-02-08 13:22:09,002 : INFO : Test_Login : test_user_login_002 : 37 : opening browser and nevigating to demo_nop_com 
+2024-02-08 13:22:09,002 : INFO : Test_Login : test_user_login_002 : 39 : Entering email-admin@yourstore.com 
+2024-02-08 13:22:09,142 : INFO : Test_Add_Customer : test_addCustomer_003 : 26 : Test_case test_addCustomer_003 is started 
+2024-02-08 13:22:09,142 : INFO : Test_Add_Customer : test_addCustomer_003 : 28 : Opening browser and navigating to demo_nop_com 
+2024-02-08 13:22:09,142 : INFO : Test_Add_Customer : test_addCustomer_003 : 30 : Entering email - admin@yourstore.com 
+2024-02-08 13:22:09,500 : INFO : Test_Login : test_user_login_002 : 41 : Entering password-admin 
+2024-02-08 13:22:09,543 : INFO : Test_Add_Customer : test_addCustomer_003 : 32 : Entering Password - admin 
+2024-02-08 13:22:09,658 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-08 13:22:09,697 : INFO : Test_Add_Customer : test_addCustomer_003 : 34 : Click on login button 
+2024-02-08 13:22:11,959 : INFO : Test_Add_Customer : test_addCustomer_003 : 37 : Click on Customer Menu 
+2024-02-08 13:22:13,365 : INFO : Test_Login : test_user_login_002 : 46 : Test_Case test_user_login_002 is passes 
+2024-02-08 13:22:13,365 : INFO : Test_Login : test_user_login_002 : 47 : Taking screenshot 
+2024-02-08 13:22:13,574 : INFO : Test_Add_Customer : test_addCustomer_003 : 39 : Click on Customer Sub Menu 
+2024-02-08 13:22:13,615 : INFO : Test_Login : test_user_login_002 : 49 : click on logout button 
+2024-02-08 13:22:14,466 : INFO : Test_Add_Customer : test_addCustomer_003 : 41 : Click on Add Customer 
+2024-02-08 13:22:15,130 : INFO : Test_Login : test_user_login_002 : 57 : Test_Case test_user_login_002 is completed 
+2024-02-08 13:22:15,673 : INFO : Test_Add_Customer : test_addCustomer_003 : 44 : Email-->zoma@outlook.com 
+2024-02-08 13:22:15,673 : INFO : Test_Add_Customer : test_addCustomer_003 : 45 : Enter Email 
+2024-02-08 13:22:15,804 : INFO : Test_Add_Customer : test_addCustomer_003 : 47 : Enter Password 
+2024-02-08 13:22:15,919 : INFO : Test_Add_Customer : test_addCustomer_003 : 49 : Enter First Name 
+2024-02-08 13:22:16,644 : INFO : Test_Add_Customer : test_addCustomer_003 : 51 : Enter Last Name 
+2024-02-08 13:22:16,776 : INFO : Test_Add_Customer : test_addCustomer_003 : 53 : Select Gender 
+2024-02-08 13:22:16,874 : INFO : Test_Add_Customer : test_addCustomer_003 : 55 : Enter Date Of Birth 
+2024-02-08 13:22:17,026 : INFO : Test_Add_Customer : test_addCustomer_003 : 57 : Enter Company Name 
+2024-02-08 13:22:17,158 : INFO : Test_Add_Customer : test_addCustomer_003 : 59 : Click on is tax exempt CheckBox 
+2024-02-08 13:22:17,228 : INFO : Test_Add_Customer : test_addCustomer_003 : 61 : Click on NewsLetter 
+2024-02-08 13:22:17,325 : INFO : Test_Add_Customer : test_addCustomer_003 : 63 : Click on NewsLetter List 
+2024-02-08 13:22:17,406 : INFO : Test_Add_Customer : test_addCustomer_003 : 65 : Select Value for Manager of vendor 
+2024-02-08 13:22:17,528 : INFO : Test_Add_Customer : test_addCustomer_003 : 67 : Click on Active Checkbox 
+2024-02-08 13:22:17,603 : INFO : Test_Add_Customer : test_addCustomer_003 : 69 : Enter Comment 
+2024-02-08 13:22:17,724 : INFO : Test_Add_Customer : test_addCustomer_003 : 71 : Click Save Button 
+2024-02-08 13:22:19,157 : INFO : Test_Add_Customer : test_addCustomer_003 : 75 : Test_case test_addCustomer_003 is passed 

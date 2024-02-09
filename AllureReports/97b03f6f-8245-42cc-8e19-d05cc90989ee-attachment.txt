@@ -1,0 +1,24 @@
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:26 Test_case test_addCustomer_003 is started
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:28 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:30 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:32 Entering Password - admin
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:34 Click on login button
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:37 Click on Customer Menu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:39 Click on Customer Sub Menu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:41 Click on Add Customer
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:44 Email-->zoma@outlook.com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:45 Enter Email
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:47 Enter Password
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:49 Enter First Name
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:51 Enter Last Name
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:53 Select Gender
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:55 Enter Date Of Birth
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:57 Enter Company Name
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:59 Click on is tax exempt CheckBox
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:61 Click on NewsLetter
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:63 Click on NewsLetter List
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:65 Select Value for Manager of vendor
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:67 Click on Active Checkbox
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:69 Enter Comment
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:71 Click Save Button
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:75 Test_case test_addCustomer_003 is passed
